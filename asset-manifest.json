@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1aac207e.css",
+    "main.js": "/static/js/main.a389dcc9.js",
+    "static/media/Carousel_image_2.jpg": "/static/media/Carousel_image_2.19426f19f3310d68f01e.jpg",
+    "static/media/background_image_1.jpg": "/static/media/background_image_1.9ee90238a9bcfb20ba84.jpg",
+    "static/media/Carousel_image_1.jpg": "/static/media/Carousel_image_1.9bb89eb36d614d21e9a1.jpg",
+    "static/media/icon_main.png": "/static/media/icon_main.3f28c97d963ad611b523.png",
+    "static/media/Carousel_image_4.jpg": "/static/media/Carousel_image_4.fdb4ece113835fec18ac.jpg",
+    "static/media/Carousel_image_3.jpg": "/static/media/Carousel_image_3.c844416494da96600f7a.jpg",
+    "static/media/bg_web_devloper_img2.png": "/static/media/bg_web_devloper_img2.bef2511f375f33b604b6.png",
+    "static/media/Designing_web.png": "/static/media/Designing_web.b643d332f2e50b7d1868.png",
+    "static/media/background_image_2.jpg": "/static/media/background_image_2.388e50c6059181413577.jpg",
+    "index.html": "/index.html",
+    "main.1aac207e.css.map": "/static/css/main.1aac207e.css.map",
+    "main.a389dcc9.js.map": "/static/js/main.a389dcc9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1aac207e.css",
+    "static/js/main.a389dcc9.js"
+  ]
+}
